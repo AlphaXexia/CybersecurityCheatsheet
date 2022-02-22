@@ -12,3 +12,12 @@ Just a collection of links and repositories for my and anyone else's convenience
  - https://urlscan.io/
  - https://www.expandurl.net/
  - https://www.browserling.com/
+
+### Decode or unhash
+ - https://crackstation.net/
+ - https://md5hashing.net/hash
+ - https://hashes.com/en/decrypt/hash
+ - https://www.base64decode.org/
+ - https://base64.guru/converter/decode/ascii
+ - https://md5decrypt.net/
+ - https://emn178.github.io/online-tools/sha256.html
