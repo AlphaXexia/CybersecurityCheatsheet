@@ -21,3 +21,6 @@ Just a collection of links and repositories for my and anyone else's convenience
  - https://base64.guru/converter/decode/ascii
  - https://md5decrypt.net/
  - https://emn178.github.io/online-tools/sha256.html
+
+## Compute the CVE Score
+ - https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:P/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H
